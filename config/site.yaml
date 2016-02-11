@@ -1,0 +1,16 @@
+title: 'Saba'
+description: "Saba is a Caribbean island and the smallest special municipality of the Netherlands. It consists largely of the potentially active volcano Mount Scenery, at 887 metres (2,910 ft) the highest point of the entire Netherlands."
+author:
+  name: MATsxm for CaribThemes
+  email: contact@caribthemes.io
+  url: http://caribthemes.io/
+  logo:
+  gravatar: mat@idimweb.com
+  description: "Saba has a land area of 13 square kilometres (5.0 sq mi). As of January 2013, the population was 1,991 inhabitants, with a population density of 150 inhabitants per square kilometre (390/sq mi). Its towns and major settlements are The Bottom (the capital), Windwardside, Hell's Gate and St. Johns."
+blog:
+  route: ''
+metadata:
+    description: 'Saba is a minimal responsive Photo Theme ported to Grav by Carib Themes.'
+taxonomies:
+  - category
+  - tag
