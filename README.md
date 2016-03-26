@@ -15,6 +15,7 @@
 * [Demo](#demo)
 * [Features](#features)
 * [Installation](#installation)
+* [Showcase](#showcase)
 * [Support & Bugs](#support--bugs)
 * [Credits](#credits)
 
@@ -56,6 +57,10 @@ To install **just** the theme:
 
 >> Contact Form Configuration
 For contact form configuration instructions please refer to [official documentation](http://learn.getgrav.org/advanced/contact-form). Make sure you installed Email and simple_form plugin though.
+
+## Showcase
+You want to share your site build with Saba?
+Feel free to add your site here...
 
 ## Support & Bugs
 * If you need a support please go to the dedicated [![Join the chat at https://gitter.im/CaribThemes/grav-theme-saba](https://badges.gitter.im/CaribThemes/grav-theme-saba.svg)](https://gitter.im/CaribThemes/grav-theme-saba?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
